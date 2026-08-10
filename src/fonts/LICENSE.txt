@@ -1,0 +1,13 @@
+GreenwayTeam Sans
+
+Based on Inter by Rasmus Andersson.
+Modified by GreenwayTeam.ai (glyph modifications, renaming).
+
+Original license: SIL Open Font License, Version 1.1
+https://openfontlicense.org
+
+The original Inter font is Copyright 2020 The Inter Project Authors.
+Modifications Copyright 2026 GreenwayTeam.ai.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: https://openfontlicense.org
